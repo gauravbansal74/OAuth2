@@ -10,12 +10,6 @@
     "name": "Gaurav Kumar",
     "email": "gauravbansal74@gmail.com"
   },
-  // "contributors": [
-  //   {
-  //     "name": "Thom Seddon",
-  //     "email": "thom@seddonmedia.co.uk"
-  //   }
-  // ],
   "main": "lib/oauth2.js",
   "dependencies": {
     "basic-auth": "~0.0.1"
